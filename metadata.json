@@ -1,0 +1,6 @@
+{
+  "name": "Agamagizh Studio — CRM & WhatsApp Operations",
+  "description": "Operational communication, CRM, campaign management, visual chatbot builder, and clinic intake pipeline powered by Chatwoot architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
